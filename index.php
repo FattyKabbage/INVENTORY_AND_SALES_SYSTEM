@@ -9,11 +9,13 @@
 	
 	require_once('inc/config/db.php');
 	
+	
 ?>
   <body>
 <?php
 	
 ?>
+<!--Content-->
     <!-- Page Content -->
     <div class="container-fluid">
 	  <div class="row">
